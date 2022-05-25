@@ -7,7 +7,7 @@ Part of a Udemy course called '30 HTML CSS & JavaScript projects in 30 Days for 
 and seeing how it would work from scratch.
 
 ---
-## Things Practiced In This Project
+## Concepts Practiced In This Project
 - DOM Event Listeners
 - Array Methods (forEach loops)
 - Conditionals
@@ -16,3 +16,7 @@ and seeing how it would work from scratch.
 - Functions
 - Variables (importance of LET and CONST)
 - classList
+
+## Things That Need To Be Improved
+
+- The 'answer' is always the bottom right element and is never any other element so it's not really random.
