@@ -20,3 +20,4 @@ and seeing how it would work from scratch.
 ## Things That Need To Be Improved
 
 - The 'answer' is always the bottom right element and is never any other element so it's not really random.
+- The responsiveness of the page could be expanded upon and improved!
